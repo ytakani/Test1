@@ -23,6 +23,7 @@ namespace Test1
     {
         public Form1()
         {
+            // add comment line
             InitializeComponent();
         }
     }
